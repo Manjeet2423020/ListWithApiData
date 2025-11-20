@@ -17,6 +17,7 @@ const images = [
   require('./assets/img2.png'),
   require('./assets/img3.jpeg'),
 ];
+// main component
 
 const ScrollScreenHorizontal = () => {
   return (
