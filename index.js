@@ -12,6 +12,7 @@ import BottomRabNavigator from './src/navigation/bottom-tabs/BottomRabNavigator'
 import SimpleFlatList from './src/screens/SimpleFlatList';
 import ScrollScreenView from './src/screens/ScrollScreenView';
 import ScrollScreenHorizontal from './src/screens/ScrollScreenHorizontal';
+import NormalApicall from './src/screens/NormalApicall';
 
 // const Root = () => (
 //   <GestureHandlerRootView style={{ flex: 1 }}>
@@ -19,4 +20,4 @@ import ScrollScreenHorizontal from './src/screens/ScrollScreenHorizontal';
 //   </GestureHandlerRootView>
 // );
 
-AppRegistry.registerComponent(appName, () => ScrollScreenHorizontal);
+AppRegistry.registerComponent(appName, () => NormalApicall);
